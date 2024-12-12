@@ -1,7 +1,11 @@
+selenium==4.27.1
+webdriver-manager==4.0.2
+pyperclip==1.8.2
+pandas
+numpy
+tqdm
 torch
 torchvision
-numpy
-pandas
 transformers
 seaborn
 matplotlib
